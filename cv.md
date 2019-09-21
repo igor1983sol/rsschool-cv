@@ -17,9 +17,9 @@ html :
           <title>Task1</title>        
 ---
 6. **Experience**: 
-- *HTMLacademy* - [Профиль](https://htmlacademy.ru/profile/id1190331 "Ссылка на профиль")
-- *RSSchool* -  [Профиль](https://app.rs.school/profile "Ссылка на профиль")
-- *GitHub* - [Профиль](https://htmlacademy.ru/profile/id1190331 "Ссылка на профиль")
+- *HTMLacademy* - [Profile](https://htmlacademy.ru/profile/id1190331 "Link")
+- *RSSchool* -  [Profile](https://app.rs.school/profile "Link")
+- *GitHub* - [Profile](https://htmlacademy.ru/profile/id1190331 "Link")
 
 7. **Education** (Francisk Skorina Gomel State University, specialty - system engineer);
 8. **English**: A2.
