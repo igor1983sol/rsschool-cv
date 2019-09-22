@@ -1,0 +1,44 @@
+body {
+  background-image: url(../pictures/white-blue.jpg);
+  background-size: 100%;
+  color: #000000;
+  font-family:  Arial, Times New Roman;
+  font-size: 14px;
+}
+.container {
+  margin: 50px auto;
+  width: 900px;
+  height: 600px;
+}
+.my2 {
+  height: 200px;
+  width: 900px;
+}
+
+h1 {
+  text-align: center;
+}
+#pic1 {
+  margin-top: -15%;
+  margin-left: 75%;
+  border-radius: 20px;
+}
+
+.content {
+  background: #f0ecf0;
+  float: right;
+  width: 900px;
+  height: 440px;
+}
+
+                          
+ .footer {
+  margin: 50px auto;
+  background: #998c8c;
+  height: 130px;
+  width: 900px;}
+  
+  p,.my1 a{
+  text-align: center;
+  }
+  
